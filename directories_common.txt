@@ -1,0 +1,6 @@
+admin
+login
+uploads
+images
+api
+user
