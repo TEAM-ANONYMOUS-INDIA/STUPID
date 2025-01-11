@@ -3,7 +3,7 @@
 
 ---
 
-<a href="https://ibb.co/7Q0QXS9"><img src="https://i.ibb.co/MfJfsgX/Screenshot-20250111-000245-Termux.jpg" alt="Screenshot-20250111-000245-Termux" border="0"></a>
+<a href="https://ibb.co/FgNzGX3"><img src="https://i.ibb.co/5BtLqk4/Screenshot-20250111-100048-Termux.jpg" alt="Screenshot-20250111-100048-Termux" border="0"></a>
 
 ---
 
@@ -33,8 +33,8 @@ To get started with **Ultimate Hacking Toolkit**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/TEAM-ANONYMOUS-INDIA/TEHTEE.git
-   cd TEHTEE
+   git clone https://github.com/TEAM-ANONYMOUS-INDIA/STUPID.git
+   cd STUPID
 
 2. Install Dependencies: Ensure you have Python 3.x installed on your system, then install the required dependencies.
 
@@ -163,17 +163,9 @@ For any questions, feel free to reach out to us at team.anonymous.india@example.
 
 ---
 
-### Explanation of Sections:
-- **Description**: Overview of the toolkit, its functionalities, and its target users.
-- **Disclaimer**: Emphasizes ethical and legal usage, reminding users that this script is for educational purposes only.
-- **Features**: A list of the available tools and functionalities in the script.
-- **Installation**: Step-by-step instructions for cloning the repository, installing dependencies, and running the script.
-- **Used Commands**: A summary of the commands used for each feature/module of the toolkit.
-- **Wordlists**: Lists the included wordlists and their use cases.
-- **Commands and Usage Examples**: How to use the script for different tasks with examples.
-- **Contributing**: A section for contributors to improve the project.
-- **License**: The open-source license information.
-- **Contact**: How to get in touch for support or queries.
+### Changes:
+- **Image Updated**: The image link is updated with the new image.
+- **GitHub Link Updated**: The GitHub repository link is updated to `https://github.com/TEAM-ANONYMOUS-INDIA/STUPID`.
 
-This README is designed to give users a comprehensive understanding of your project and make it easy for them to get started.
+This **README.md** will now provide all the relevant information in an organized and professional manner for your GitHub project.
 
