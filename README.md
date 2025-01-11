@@ -35,6 +35,10 @@ To get started with **Ultimate Hacking Toolkit**, follow these steps:
    ```bash
    git clone https://github.com/TEAM-ANONYMOUS-INDIA/STUPID.git
    cd STUPID
+   pip install -r requirements.txt
+   python3 main.py
+
+   
 
 2. Install Dependencies: Ensure you have Python 3.x installed on your system, then install the required dependencies.
 
@@ -47,7 +51,7 @@ pip install <library_name>
 
 3. Run the Script: After installation, you can execute the toolkit script directly.
 
-python tool.py
+python3 main.py
 
 
 
