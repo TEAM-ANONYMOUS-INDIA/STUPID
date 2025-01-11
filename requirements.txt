@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+urllib3
+colorama
+dnspython
+paramiko
+python-nmap
+pyfiglet
+termcolor
+tldextract
